@@ -1,1 +1,1 @@
-# python_projects
+# a_collection_of_basic_python_projects
